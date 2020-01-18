@@ -7,10 +7,10 @@ POST {{baseUrl}}/devs HTTP/1.1
 Content-Type: application/json
 
 {
-    "github_username": "allanbarcelos",
+    "github_username": "georgejr3211",
     "techs": "ReactJS, React Native, NodeJS",
-    "latitude": -19.7604797,
-    "longitude": -47.9515105
+    "latitude": -19.7572881,
+    "longitude": -47.9545283
 }
 
 
